@@ -5,7 +5,7 @@
 
 
 * Obtain training dataset with inputs $\mathbf{x}$ and labels $y$ (often most time consuming)
-* Choose a mathematical model $f$, with parameters $\mathbf{w}
+* Choose a mathematical model $f$, with parameters $\mathbf{w}$
 * $y=f(\mathbf{x; w})$, *prediction function*
 * learn $\mathbf{w}$ values that gives most correct answers in training set
 
