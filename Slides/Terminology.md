@@ -2,7 +2,7 @@
 
 
 ### Data Science:
-Making sense of the large volumes of data. 
+*Extracting information from Data*
 
 * statistical knowledge (e.g. sampling, Bayesian inference etc)
 * computing skills to implement algorithms (e.g. coding, cloud computing etc)
@@ -60,7 +60,7 @@ It is this area in which machine learning is key..
 
 
 ### Machine learning
-Technology behind data science and recent AI activity
+Toolbox of techniques behind data science and recent AI activity
 
 Data + model + compute -> prediction
 

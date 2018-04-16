@@ -4,14 +4,14 @@
 * Widely used for classification
 
 
-* Obtain training dataset with inputs $\mathbf{x}$ and labels $y$ (often most time consuming)
-* Choose a mathematical model $f$, with parameters $\mathbf{w}$
-* $y=f(\mathbf{x; w})$, *prediction function*
-* learn $\mathbf{w}$ values that gives most correct answers in training set
+* Obtain training dataset with inputs **$\mathbf{x}$** and labels **$y$** (often most time consuming)
+* Choose a mathematical model **$f$**, with parameters **$\mathbf{w}$**
+* **$y=f(\mathbf{x; w})$**, *prediction function*
+* learn **$\mathbf{w}$** values that gives most correct answers in training set
 
 Note:
 * Highly dependent on quality of dataset
-* The model or function $f$, should be chosen to match how we think $x$ depends on $y$, could be smoothness,
+* The model or function **$f$**, should be chosen to match how we think **$x$** depends on **$y$**, could be smoothness,
 if we were modelling weather, we might want some perodic component to reflect the seasons..
 * If you don't use appropriate knowledge in chosing function, then model must learn it independently, need a lot more 
 data and a lot more computing power to tune 
@@ -19,10 +19,13 @@ data and a lot more computing power to tune
 
 
 ### Unsupervised learning
-* Have inputs $\mathbf{x}$ but no outputs
+* Have inputs **$\mathbf{x}$** but no outputs
 * Learn structure from data
     * e.g. clustering
     * e.g. dimensionality reduction
+
+
+![](Slides/assets/sl_vs_ul.png?raw=true)<!-- .element height="100%" width="100%"-->
 
 
 ### Reinforcement learning
